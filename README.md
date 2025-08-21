@@ -1,0 +1,1 @@
+Credit rick prediction model
