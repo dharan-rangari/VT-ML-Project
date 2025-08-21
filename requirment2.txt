@@ -2,7 +2,6 @@ streamlit
 scikit-learn
 pandas
 numpy
-joblib
 matplotlib
 train_test_split
 RandomForestClassifier
