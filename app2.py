@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
-import joblib
-
+# import joblib
+from sklearn.externals import joblib
 # -------------------- LOAD MODEL --------------------
 # Load trained model and label encoder together
 # model ,LE = joblib.load("credit_risk_model.joblib")
