@@ -7,4 +7,6 @@ matplotlib
 train_test_split
 RandomForestClassifier
 LabelEncoder
-classification_report, confusion_matrix, accuracy_score
+classification_report
+confusion_matrix
+accuracy_score
